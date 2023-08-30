@@ -35,7 +35,7 @@
     "renovate": "34.152.2"
   },
   "devDependencies": {
-    "@jest/globals": "29.3.1",
+    "@jest/globals": "29.6.4",
     "@jest/reporters": "29.3.1",
     "@jest/test-result": "29.3.1",
     "@ls-lint/ls-lint": "1.11.2",
